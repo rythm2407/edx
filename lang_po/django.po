@@ -276,7 +276,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
-"Language: zh_CN\n"
+"Language: en-us\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. Translators: 'Discussion' refers to the tab in the courseware that leads to
@@ -284,43 +284,43 @@ msgstr ""
 #: cms/djangoapps/contentstore/views/component.py
 #: lms/djangoapps/courseware/tabs.py
 #: lms/djangoapps/django_comment_client/forum/views.py
-msgid "Discussion"
-msgstr "论坛"
+Msgid "Discussion"
+Msgstr "Forum"
 
 #: cms/djangoapps/contentstore/views/component.py
 #: lms/djangoapps/class_dashboard/dashboard_data.py
-msgid "Problem"
-msgstr "问题"
+Msgid "Problem"
+Msgid "Question"
 
 #: cms/djangoapps/contentstore/views/component.py
 #: common/lib/xmodule/xmodule/video_module/video_module.py
-msgid "Advanced"
-msgstr "高级"
+Msgid "Advanced"
+Msgid "Advanced"
 
 #: cms/djangoapps/contentstore/views/entrance_exam.py
 #: lms/djangoapps/courseware/tabs.py cms/templates/settings.html
-msgid "Entrance Exam"
-msgstr "入学考试"
+Msgid "Entrance Exam"
+Msgid "Enrollment exam"
 
 #: cms/djangoapps/contentstore/views/helpers.py
 #: lms/djangoapps/class_dashboard/dashboard_data.py
 #: cms/templates/course_outline.html lms/templates/seq_module.html
 #: lms/templates/ccx/schedule.html
 #: lms/templates/instructor/instructor_dashboard_2/metrics.html
-msgid "Section"
-msgstr "章"
+Msgid "Section"
+Msgstr "章"
 
 #: cms/djangoapps/contentstore/views/helpers.py
 #: lms/djangoapps/class_dashboard/dashboard_data.py
 #: lms/templates/ccx/schedule.html
-msgid "Subsection"
-msgstr "节"
+Msgid "Subsection"
+Msgstr "Section"
 
 #: cms/djangoapps/contentstore/views/helpers.py
 #: lms/djangoapps/instructor/views/tools.py lms/templates/seq_module.html
 #: lms/templates/ccx/schedule.html
-msgid "Unit"
-msgstr "单元"
+Msgid "Unit"
+Msgstr "unit"
 
 #: cms/djangoapps/contentstore/views/videos.py
 #: lms/djangoapps/class_dashboard/dashboard_data.py
