@@ -1,0 +1,16 @@
+version: "3"
+services:
+  edx:
+    build:
+      context: .
+    restart: always
+    #volumes:
+    #  - .:/site
+    #command: server -D
+    #command: server --bind 0.0.0.0 --navigateToChanged --templateMetrics --buildDrafts
+    ports:
+      - 80:80
+      - 5000:5000
+      - 5010:5010
+      - 18010:18010
+      - 18020:18020
